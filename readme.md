@@ -1,0 +1,1 @@
+Please run "php src/CommissionCalculator.php input.txt" in your command, and then you can see the result.
